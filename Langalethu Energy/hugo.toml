@@ -1,0 +1,6 @@
+baseURL = "https://kaylenmoodley1617.github.io/-Langalethu-Energy/"
+languageCode = "en-us"
+title = "Biodiesel Site"
+
+[params]
+  description = "Simple biodiesel info site"
